@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\App.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\controller\GreetingsController.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\controller\MemeController.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\data\GreetingsEntity.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\data\MemeEntity.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\dto\MemeDto.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\exchange\MemeListResponseDto.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\exchange\MemeRequestParameter.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\exchange\ResponseDto.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\repository\GreetingsRepository.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\repository\IMemeRepository.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\repository\IMemeRepositoryService.java">
+<error line="7" column="40" severity="error" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\repository\MemeRepositoryService.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\service\GreetingsService.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\service\IMemeService.java">
+</file>
+<file name="C:\Rohit P\UPSKILLING\Projects\spring-starter-master\src\main\java\com\crio\starter\service\MemeService.java">
+</file>
+</checkstyle>
